@@ -1,2 +1,31 @@
+body{
+
+    background:#E5E5E5;
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+}
+h1{
+    /* PICK A COLOR */
+
+
+    position: absolute;
+    width: 584px;
+    height: 94px;
+    left: 428px;
+    top: 393px;
+    
+    font-family: 'Russo One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 78px;
+    line-height: 94px;
+    
+    
+    letter-spacing: 0.03em;
+    
+    color: #FFFFFF;
+    
+}
 
 
